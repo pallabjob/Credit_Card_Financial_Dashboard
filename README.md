@@ -1,7 +1,7 @@
 # Credit_Card_Financial_Dashboard
 Power BI Dasboard
 Project Objective: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
-Dataset: Financial Dataset
+Dataset: Financial Dataset.
 Project Insights- Week 53 (31st Dec)
 WoW change:
 • Revenue increased by 28.8%,
